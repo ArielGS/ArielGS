@@ -20,7 +20,13 @@
 </p>
 
 #
-<h4> Projects  </h4>
+<h4> Projects 🎨</h4>
 <p>  
      . . .
+</p>
+
+#
+<h4> Contact 📡 </h4>
+<p>  
+     Email: arielgrandasolano@gmail.com
 </p>
