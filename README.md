@@ -7,7 +7,7 @@
      - C++. <br>
      - CSS. <br>
      - HTML. <br>
-     - Object Oriented programing. <br>
+     - Object Oriented programMing. <br>
 </p>
 
 #
