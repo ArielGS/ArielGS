@@ -7,8 +7,6 @@
      - C++. <br>
      - CSS. <br>
      - HTML. <br>
-     - JavaScript. <br>
-     - Microsoft Azure. <br>
      - Object Oriented programing. <br>
 </p>
 
