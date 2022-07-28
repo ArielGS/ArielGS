@@ -16,7 +16,7 @@
 <h4> Languages 🌐 </h4>
 <p>  
      - Spanish [Native]. <br>
-     - English. <br>
+     - English [B1].<br>
 </p>
 
 #
