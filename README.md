@@ -5,9 +5,10 @@
 <h4> Skills 🧠 </h4>
 <p>  
      - C++. <br>
+     - Java. <br>
      - CSS. <br>
      - HTML. <br>
-     - Object Oriented programMing. <br>
+     - Object Oriented programming. <br>
 </p>
 
 #
