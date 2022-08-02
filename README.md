@@ -27,7 +27,7 @@
 #
 <h4> Contact 📡 </h4>
 <p>  
-     Email: <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXxwkkShTpGNhdTtCRWHQdVFLnMwjqlnMLtsKfNTspHLkCRLzZzFQpCsZFKdpvhjgcbjV">arielgrandasolano@gmail.com</a> <br>
+     Email: arielgrandasolano@gmail.com <br>
      Linkedin: <a href="https://cr.linkedin.com/in/ariel-granda?trk=profile-badge">Ariel Granda Solano</a> <br>
               
 </p>
