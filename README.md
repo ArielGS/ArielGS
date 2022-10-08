@@ -10,6 +10,7 @@
      - MySql. <br>
      - CSS. <br>
      - HTML. <br>
+     - React. <br>
      - JavaScript. <br>
      - Object Oriented programming. <br>
 </p>
