@@ -12,7 +12,7 @@
      - HTML. <br>
      - React. <br>
      - JavaScript. <br>
-     - Object Oriented programming. <br>
+     - Azure Fundamentals. <br>
 </p>
 
 #
