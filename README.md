@@ -8,8 +8,8 @@
      - CSS. <br>
      - Java. <br>
      - HTML. <br>
-     - MySql. <br>
      - React. <br>
+     - MySql. <br>
      - GitHub. <br>
      - Python. <br>
      - JavaScript. <br>
