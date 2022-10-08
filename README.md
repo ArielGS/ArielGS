@@ -5,9 +5,12 @@
 <h4> Skills 🧠 </h4>
 <p>  
      - C++. <br>
+     - Python. <br>
      - Java. <br>
+     - MySql. <br>
      - CSS. <br>
      - HTML. <br>
+     - JavaScript. <br>
      - Object Oriented programming. <br>
 </p>
 
