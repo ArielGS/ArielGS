@@ -5,12 +5,13 @@
 <h4> Skills 🧠 </h4>
 <p>  
      - C++. <br>
-     - Python. <br>
-     - Java. <br>
-     - MySql. <br>
      - CSS. <br>
+     - Java. <br>
      - HTML. <br>
+     - MySql. <br>
      - React. <br>
+     - GitHub. <br>
+     - Python. <br>
      - JavaScript. <br>
      - Azure Fundamentals. <br>
 </p>
