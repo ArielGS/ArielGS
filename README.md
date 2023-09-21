@@ -9,7 +9,9 @@
      - Java. <br>
      - HTML. <br>
      - React. <br>
+     - Django. <br> 
      - MySql. <br>
+     - Oracle. <br>
      - GitHub. <br>
      - Python. <br>
      - JavaScript. <br>
@@ -20,7 +22,7 @@
 <h4> Languages 🌐 </h4>
 <p>  
      - Spanish [Native]. <br>
-     - English [B1].<br>
+     - English [B2].<br>
 </p>
 
 #
