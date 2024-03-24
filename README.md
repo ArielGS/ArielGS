@@ -1,37 +1,6 @@
 <h1> Ariel Granda Solano </h1> 
 <h3> Student at National University of Costa Rica </h3>
 
-#
-<h4> Skills 🧠 </h4>
-<p>  
-     - C++. <br>
-     - CSS. <br>
-     - Java. <br>
-     - HTML. <br>
-     - React. <br>
-     - Django. <br> 
-     - MySql. <br>
-     - Oracle. <br>
-     - GitHub. <br>
-     - Python. <br>
-     - JavaScript. <br>
-     - Azure Fundamentals. <br>
-</p>
-
-#
-<h4> Languages 🌐 </h4>
-<p>  
-     - Spanish [Native]. <br>
-     - English [B2].<br>
-</p>
-
-#
-<h4> Projects 🎨</h4>
-<p>  
-     . . .
-</p>
-
-#
 <h4> Contact 📡 </h4>
 <p>  
      Email: arielgrandasolano@gmail.com <br>
