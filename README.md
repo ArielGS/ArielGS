@@ -11,8 +11,8 @@
 <h4> Current projects 💨 </h4>
 <p>  
      - Kleo Finance -> Progressive Web App for personal finances <strong>( Design Stage )</strong> <br>
-     - Legacy migration at OTS -> Document and migrate main functionalities of legacy application <strong>( Design Stage )</strong>
-     - Zathu T-Shirts -> E-commerce for a T-shits brand with clothe customization <strong>( Definition Stage )</strong>
+     - Legacy migration at OTS -> Document and migrate main functionalities of legacy application <strong>( Design Stage )</strong> <br>
+     - Zathu T-Shirts -> E-commerce for a T-shits brand with clothe customization <strong>( Definition Stage )</strong> <br>
 </p>
 
 <h4> Contact 📡 </h4>
